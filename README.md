@@ -1,2 +1,2 @@
-# calculadora-flutter
- Código do curso de flutter
+# Calculadora de IMC
+ Primeiros projetos com Flutter
