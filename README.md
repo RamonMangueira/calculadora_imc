@@ -7,6 +7,6 @@ Abaixo segue algumas imagens do aplicativo
  
 ![2](https://user-images.githubusercontent.com/61952617/118650446-db8a3500-b7ba-11eb-887c-5b953fa9f7fc.jpg)
 
-Imagens com os campos preenchidos.
+Imagem com os campos preenchidos.
 
 ![1](https://user-images.githubusercontent.com/61952617/118650503-e9d85100-b7ba-11eb-99e8-7c5f51ecc8dc.jpg)
